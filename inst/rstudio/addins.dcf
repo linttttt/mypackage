@@ -1,0 +1,5 @@
+Name: Greeting
+Description: New Addin Description
+Binding: hello
+Interactive: false
+
